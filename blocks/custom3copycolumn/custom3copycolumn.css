@@ -5,9 +5,9 @@
 }
 
 .custom3copycolumn .block>div {
+    flex-wrap: wrap;
     display: flex;
 
-    flex-wrap: wrap;
 }
 
 .custom3copycolumn .block>div div {
